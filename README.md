@@ -7,7 +7,7 @@ Please note: This CDS does not provide guidence for travel medicine or for manag
 
 # General Information 
 ## Artifact Type
-Order Set with Documentation Template
+Order Set with Documentation Prompt
 ## Creation Date
 01/01/202
 ## Last Update Date
