@@ -51,5 +51,5 @@ We restrict the display of the CDS in patients with evidence of highly likely US
 To avoid overapplication of the CDS we restricted display to patients with an office visit more than 2 years before the current event.
 ## Interventions and Actions
 Alert actions include opening or not opening the order set. Acknowledge reasons include 'Not applicable' or 'Immigrant Health Screening Completed'
-Order set infromation includes diagnosis assosciations with respective screening diagnoses to support efficiency.
+Order set information includes diagnosis associations with respective screening diagnoses to support efficiency.
 A negative feedback loop turns of the alert and documentation prompt once completion of the intervention is established.
